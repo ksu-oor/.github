@@ -6,8 +6,13 @@ Welcome to the official GitHub organization for the **Kennesaw State University 
 
 The Office of Research at KSU is committed to advancing research excellence by streamlining administrative processes, supporting faculty and staff, and enabling data-driven decision-making. Our GitHub repositories reflect ongoing efforts to modernize and automate research support systems.
 
+## Cordination & Documentation Repo
+
+
+
 ## What You'll Find Here
 
+- **Coordiantion & Documentation Repo** https://github.com/ksu-oor/Developer-Tools-and-Operations
 - **Power Automate Workflows** for proposal tracking, project management, and system integrations
 - **Microsoft Lists & Forms** used to collect and organize research-related data
 - **Integrations** with platforms like **Cayuse SP**, **PeopleSoft**, and **Monday.com**
