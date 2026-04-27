@@ -1,4 +1,7 @@
 
+NOTE IN DEVELOPMENT AND NOTHING FINALIZED HERE - LOTS TO TWEAK AND MAKE LESS COMPLICATED - OVERKILL RIGHT NO IMO
+
+
 **Owner:** Office of Research, Kennesaw State University **Maintainer:** OOR Data/Dev Team (Tyra, Raj, Willie) **Status:** Living document — review quarterly **Location:** `ksu-oor/dev-standards` (proposed)
 
 ---
